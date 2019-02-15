@@ -1,0 +1,12 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "3b299df0485040e48c9735911e85d0ce",
+    "Name": "FirstPlatformTag",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "DefaultValue": {
+        "Type": { "Id": "3b299df0485040e48c9735911e85d0ce", "Name": "FirstPlatformTag" }
+    }
+}]

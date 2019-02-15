@@ -1,0 +1,91 @@
+﻿{
+    "Item": {
+        "Name": "Project",
+        "Size": 0,
+        "CompressedSize": 0
+    },
+    "Children": [{
+        "Item": {
+            "Name": "Runtime",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/CloneStackJump/html5/development/build/runtime.js",
+                "Size": 6196610,
+                "CompressedSize": 784949
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Assets",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "JavaScript",
+                "Size": 368,
+                "CompressedSize": 0
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Code",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/CloneStackJump/html5/development/build/entities.js",
+                "Size": 8730,
+                "CompressedSize": 1761
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "PlatformGroup",
+                    "Size": 3242,
+                    "CompressedSize": 807
+                }
+            }, {
+                "Item": {
+                    "Name": "PlayerGroup",
+                    "Size": 5404,
+                    "CompressedSize": 1298
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/CloneStackJump/html5/development/build/bindings.js",
+                "Size": 87863,
+                "CompressedSize": 6909
+            }
+        }, {
+            "Item": {
+                "Name": "Linked Code Files",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/CloneStackJump/html5/development/artifacts/scripts/tsc-emit.js",
+                    "Size": 5082,
+                    "CompressedSize": 1470
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/CloneStackJump/html5/development/build/main.js",
+                "Size": 2811,
+                "CompressedSize": 896
+            }
+        }, {
+            "Item": {
+                "Name": "TinyExport/CloneStackJump/html5/development/build/wsclient.js",
+                "Size": 9651,
+                "CompressedSize": 2635
+            }
+        }]
+    }]
+}

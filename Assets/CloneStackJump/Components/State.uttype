@@ -1,0 +1,21 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "49819f90d60c4178937ea2ccb2f9a581",
+    "Name": "State",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "e820f649129a47f9bf9bcebf8d944649",
+        "Name": "IsPlaying",
+        "FieldType": { "Id": "2b477f505af74487b7092b5617d88d3f", "Name": "Boolean" },
+        "Array": false,
+        "Visibility": 0,
+        "EditorOnly": false,
+        "Versioned": true
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "49819f90d60c4178937ea2ccb2f9a581", "Name": "State" }
+    }
+}]

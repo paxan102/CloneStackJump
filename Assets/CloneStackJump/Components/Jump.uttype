@@ -1,0 +1,21 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "a9f8809715f24a7ea2e0d2ad62b3af7c",
+    "Name": "Jump",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "caeaf1cc10984b369da73616dcfe4234",
+        "Name": "jumpForce",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0,
+        "EditorOnly": false,
+        "Versioned": true
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "a9f8809715f24a7ea2e0d2ad62b3af7c", "Name": "Jump" }
+    }
+}]

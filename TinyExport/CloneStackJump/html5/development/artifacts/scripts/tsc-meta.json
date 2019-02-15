@@ -1,0 +1,57 @@
+{
+    "Success": true,
+    "Diagnostics": [],
+    "Systems": [
+        {
+            "Name": "JumpSystem",
+            "QualifiedName": "game.JumpSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/Users/user/Documents/Unity Project/CloneStackJump/Assets/CloneStackJump/Scripts/JumpSystem.ts",
+                "Line": 4,
+                "Character": 17
+            }
+        }
+    ],
+    "Filters": [],
+    "Behaviours": [],
+    "Performance": [
+        {
+            "Key": "tsconfig",
+            "Description": "Time taken to read and parse the given tsconfig.json file",
+            "Duration": 331,
+            "Steps": 1
+        },
+        {
+            "Key": "checksum",
+            "Description": "Time taken to compute the MD5 of all inputs",
+            "Duration": 629,
+            "Steps": 1
+        },
+        {
+            "Key": "compile",
+            "Description": "Time taken to compile the TypeScript program",
+            "Duration": 2139,
+            "Steps": 10
+        },
+        {
+            "Key": "emit",
+            "Description": "Time taken to generate and write the JavaScript output",
+            "Duration": 93,
+            "Steps": 2
+        },
+        {
+            "Key": "metadata",
+            "Description": "Time taken to reflect Tiny metadata from the compiled program",
+            "Duration": 11,
+            "Steps": 1
+        }
+    ],
+    "SourceFiles": [
+        "C:/Users/user/Documents/Unity Project/CloneStackJump/Assets/CloneStackJump/Scripts/JumpSystem.ts",
+        "C:/Users/user/Documents/Unity Project/CloneStackJump/Library/PackageCache/com.unity.tiny@0.14.1-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityGroup.ts",
+        "C:/Users/user/Documents/Unity Project/CloneStackJump/Library/PackageCache/com.unity.tiny@0.14.1-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityLookupCache.ts"
+    ],
+    "InputHash": "7976bcde45452d4fedeb034569cd02a0",
+    "GeneratedAt": "Fri Feb 15 2019 11:53:23 GMT+0300 (RTZ 2 (зима))"
+}
